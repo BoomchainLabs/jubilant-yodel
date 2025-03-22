@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+git_source(:github) { |jubilant-yodel| "https://github.com/#{jubilant-yodel}" }
 
 ruby '3.0.0'
 
